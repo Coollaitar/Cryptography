@@ -15,7 +15,7 @@ Why Blockchain? :
 Cryptographic Hash Functions :
 
 - Conversion of any input of any size converted into fixed size output is known as function of Cryptographic Hash Function
-- Best method for hashing is Modulo Division Method (accordingto Wikipedia)
+- Best method for hashing is Modulo Division Method (according to Wikipedia)
 
 # Digital Signatures
 
